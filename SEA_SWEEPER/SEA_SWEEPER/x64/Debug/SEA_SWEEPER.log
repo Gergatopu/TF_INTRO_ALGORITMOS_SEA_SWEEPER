@@ -1,0 +1,81 @@
+﻿  SEA_SWEEPER.cpp
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\Aliados.h(123,44): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\basura.h(50,25): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\basura.h(91,24): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\basura.h(131,24): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\Enemigos.h(112,41): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\Enemigos.h(306,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\Personaje_P.h(320,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\Personaje_P.h(321,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\Personaje_P.h(378,78): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\Personaje_P.h(395,42): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\items.h(129,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(87,13): warning C4552: "!": el resultado de la expresión no se usa
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(115,13): warning C4552: "!": el resultado de la expresión no se usa
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(119,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(153,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(194,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(270,13): warning C4552: "!": el resultado de la expresión no se usa
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(298,13): warning C4552: "!": el resultado de la expresión no se usa
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(302,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(345,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(362,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(461,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(466,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(482,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(493,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+C:\Users\51934\source\repos\SEA_SWEEPER\SEA_SWEEPER\game.h(505,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/SEA_SWEEPER.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SEA_SWEEPER.vcxproj -> C:\Users\51934\source\repos\SEA_SWEEPER\x64\Debug\SEA_SWEEPER.exe
